@@ -59,4 +59,5 @@ Parking Lot is a system where we can park our vehicles and get them out when we 
     4. PaymentStatus
     5. VehicleType
 
-
+#### Diagrams
+See [UML.md](./UML.md) for the full class diagram (Mermaid + ASCII), the three-layer architecture overview, and a ParkingLot1 vs ParkingLot2 comparison.
