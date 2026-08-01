@@ -1,0 +1,16 @@
+**/target/
+**/bin/
+**/build/
+**/out/
+**/dist/
+**/logs/
+**/tmp/
+**/temp/
+**/cache/
+**/*.class
+**/.idea/
+**/.vscode/
+**/.DS_Store
+**/.classpath
+**/.project
+**/.settings/
